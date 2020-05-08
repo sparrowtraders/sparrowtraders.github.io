@@ -1722,7 +1722,23 @@ h3 {
   text-align: center;
 }
 
-#purchasePageBtn{
+#purchasePageBtn1{
+  margin-left: 33%;
+}
+
+#purchasePageBtn2{
+  margin-left: 33%;
+}
+
+#purchasePageBtn3{
+  margin-left: 33%;
+}
+
+#purchasePageBtn4{
+  margin-left: 33%;
+}
+
+#purchasePageBtn5{
   margin-left: 33%;
 }
 
@@ -1759,7 +1775,23 @@ h3 {
     height: 650px;
   }
 
-  #purchasePageBtn{
+  #purchasePageBtn1{
+    margin-left: 25%;
+  }
+
+  #purchasePageBtn2{
+    margin-left: 25%;
+  }
+
+  #purchasePageBtn3{
+    margin-left: 25%;
+  }
+
+  #purchasePageBtn4{
+    margin-left: 25%;
+  }
+
+  #purchasePageBtn5{
     margin-left: 25%;
   }
 }
@@ -3946,7 +3978,27 @@ h3 {
   padding-bottom: 140px;
 }
 
-#purchase-btn{
+#purchase-btn1{
+  background-color: white;
+  color: black;
+}
+
+#purchase-btn2{
+  background-color: white;
+  color: black;
+}
+
+#purchase-btn3{
+  background-color: white;
+  color: black;
+}
+
+#purchase-btn4{
+  background-color: white;
+  color: black;
+}
+
+#purchase-btn5{
   background-color: white;
   color: black;
 }
