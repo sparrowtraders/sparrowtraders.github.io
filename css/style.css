@@ -1639,7 +1639,6 @@ h3 {
 /* line 1, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_features.scss */
 .features_area {
   padding-top: 100px;
-  padding-bottom: 140px;
 }
 
 .features-text{
@@ -1748,7 +1747,6 @@ h3 {
   /* line 1, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_features.scss */
   .features_area {
     padding-top: 0;
-    padding-bottom: 30px;
   }
   #purchaseBlurb{
     text-align: center;
@@ -4085,7 +4083,13 @@ h3 {
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
-  height: 300px;
+  height: 415px;
+}
+
+.sponsorBanner{
+  height: 200px;
+  text-align: center;
+  padding-top: 75px;
 }
 
 #stockCard{
@@ -4374,6 +4378,22 @@ h3 {
   .contact-section {
     padding: 0px 0 40px;
   }
+
+  .sponsorBanner{
+    height:200px;
+    text-align: center;
+    padding-top: 25px;
+  }
+
+  .sponsorImage{
+    height: 25px;
+    margin: 10px;
+  }
+
+  .sponsorImageyahoo{
+    height: 40px;
+    margin: 10px;
+  }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -4409,7 +4429,6 @@ h3 {
 }
 
 /* line 85, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_elements.scss */
-b,
 sup,
 sub,
 u,

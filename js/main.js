@@ -19,7 +19,7 @@ $(window).on('scroll', function () {
 $(document).ready(function(){
 
 // mobile_menu
-var menu = $('ul#navigation');
+var menu = $('#joinDiscordButton');
 if(menu.length){
 	menu.slicknav({
 		prependTo: ".mobile_menu",
