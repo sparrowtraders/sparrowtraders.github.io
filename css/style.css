@@ -3093,7 +3093,7 @@ h3 {
 
 /* line 2, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_tesmonial.scss */
 .testimonial_area {
-  padding: 152px 0 146px 0;
+  padding: 152px 0 120px 0;
   background-image: url(../img/banner/banner_testmonial.png);
   position: relative;
   z-index: 0;
@@ -3116,6 +3116,8 @@ h3 {
   /* line 2, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_tesmonial.scss */
   .testimonial_area {
     padding: 50px 0;
+    background-color: #D4AF37;
+
   }
 }
 
@@ -3167,6 +3169,15 @@ h3 {
   width: auto;
 }
 
+.testimonialPadding{
+  padding-top: 20px;
+}
+
+.testimonialText{
+  text-align: center;
+  padding-top: 120px;
+}
+
 /* line 52, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_tesmonial.scss */
 .testimonial_area .owl-carousel .owl-nav div.owl-next {
   left: auto;
@@ -3188,6 +3199,16 @@ h3 {
   /* line 1, ../../Arafath/CL/CL October/219. SEO/HTML/scss/_discuss.scss */
   .discuss_projects {
     padding: 50px 0 50px 0;
+  }
+
+  #mobileTestimonial{
+    height: 600px;
+    padding-top: 20px;
+  }
+
+  .testimonialText{
+    padding-top: 70px;
+    padding-bottom: 50px;
   }
 }
 
